@@ -23,7 +23,7 @@ A machine learning-based phishing email detection system built with **Python** a
 
 ```text
 Phishing-Email-Detection/
-│── phishing_detector.py
+│── PhishingEmailDetectionModel.py
 │── phishing_emails.csv
 │── requirements.txt
 └── README.md
