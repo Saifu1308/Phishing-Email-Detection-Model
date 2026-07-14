@@ -42,7 +42,8 @@ pip install -r requirements.txt
 ## ▶️ Run the Project
 
 ```bash
-python 
+python PhishingEmailDetectionModel.py
+
 ```
 
 ## 📌 Example Output
